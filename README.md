@@ -65,3 +65,12 @@ Clone the repo:
 ```bash
 git clone https://github.com/KetanMane/IND-Military-Armoury.git
 cd IND-Military-Armoury
+```
+
+## 📝 License  
+This project is licensed under the [MIT License](LICENSE).
+
+## 👋 About Me  
+Made with 💚 by Ketan Mane — passionate about blending technology with education to spotlight India’s defense heritage and capabilities
+
+
