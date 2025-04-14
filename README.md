@@ -31,7 +31,7 @@
 - Developers to see **frontend techniques**
 - Future additions like AI image tagging or search functionality
 
-Inspired by my love for defense tech and development, this project reflects my ability to combine **design, storytelling, and interactivity** into one site.
+Inspired by my love for defense tech and development, this project reflects my ability to combine **design, storytelling, and interactivity** into one site
 
 ---
 
@@ -68,7 +68,7 @@ cd IND-Military-Armoury
 ```
 
 ## 📝 License  
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
 
 ## 👋 About Me  
 Made with 💚 by Ketan Mane — passionate about blending technology with education to spotlight India’s defense heritage and capabilities
