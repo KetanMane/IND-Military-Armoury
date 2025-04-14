@@ -6,8 +6,8 @@
 
 ## 🔥 Demo
 
-🖥️ Live Website: [https://ind-military-armoury.vercel.app](#)
-🎥 Preview Video: *(Add link or GIF if available)*
+🖥️ Live Website: 
+[https://ind-military-armoury.vercel.app](#)
 
 ---
 
@@ -51,21 +51,12 @@ Inspired by my love for defense tech and development, this project reflects my a
 
 | Frontend       | Hosting          | Design        |
 |----------------|------------------|----------------|
-| HTML5          | GitHub Pages     | Custom Icons + AI-Generated Images |
+| HTML5          |     Vercel       | Custom Icons + AI-Generated Images |
 | CSS3 (Flexbox/Grid, Animations) |                | Figma (Concepts) |
 | JavaScript     |                  | Flat Art Style Illustrations |
 
 ---
 
-## 🖼️ Screenshots
-
-*(Upload or paste image links)*  
-Example:
-- ![Home Page](images/screenshots/home.png)
-- ![Mission Page](images/screenshots/mission.png)
-- ![Gallery](images/screenshots/gallery.png)
-
----
 
 ## ⚙️ Setup Instructions
 
